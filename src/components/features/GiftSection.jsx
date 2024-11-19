@@ -19,7 +19,7 @@ const GiftSection = memo(({ data }) => {
                 </div>
                 <div className="p-4 py-8 flex flex-col text-center gap-4 rounded-lg items-center">
                     <p className="font-bold text-[#f78da4] text-xl">
-                        ขวัญปีนี้
+                        คิดถึง เทอน้าาาา
                     </p>
                     <div className="w-[300px] h-[380px] rounded-lg shadow-lg">
                         <img

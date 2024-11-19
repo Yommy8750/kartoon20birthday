@@ -9,7 +9,7 @@ const Header = memo(({ content: { title, subtitle } }) => (
         className="text-[#44a7f2]"
     >
         <h1 className="text-8xl font-medium w-[350px] text-wrap font-['Kanit']">
-            {title}
+            {title} 
         </h1>
         <h1 className="text-6xl font-bold w-[350px] text-wrap font-['Kanit'] text-center">
             {subtitle}

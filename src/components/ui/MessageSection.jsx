@@ -13,7 +13,7 @@ const MessageSection = forwardRef(({ isInView, data }, ref) => (
             <ul>
                 {data.map((message, index) => (
                     <li key={index} className="text-lg p-2 text-start">
-                        {message}
+                        {message} 
                     </li>
                 ))}
             </ul>

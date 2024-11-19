@@ -29,8 +29,8 @@ function App() {
                 <div className="flex flex-col items-center max-w-[350px] py-12 gap-16 relative">
                     <Header
                         content={{
-                            title: "สุขสันต์วันเกิด",
-                            subtitle: "Naming🎉",
+                            title: "Kartoon Birthday",
+                            subtitle: "19/11/24🎉",
                         }}
                     />
                     <div className="w-[245px] h-[320px] rounded-lg shadow-lg mb-12">
@@ -57,7 +57,9 @@ function App() {
                         }
                     />
                     <div className={`pb-20 font-bold text-[#f78da4] text-3xl`}>
-                        Captions 💕
+                          แม้ว่าตัวเลขจะเพิ่มขึ้น
+                        ก็หวังว่าจะมีเทออยู่ด้วยกัน 
+                        ตลอดไป 💕
                     </div>
                 </div>
             </div>
